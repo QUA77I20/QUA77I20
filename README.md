@@ -10,3 +10,28 @@
 
 ## ⚡ Fun Fact:
 - 🎯 Created a fully functional blockchain with API wallets and a miner from scratch in just 12 hours... and then lost it 😅.
+
+## 💻 Technologies I Work With:
+- 🐍 Python (Flask, Telebot)
+- 📊 Pandas, NumPy, Matplotlib
+- 🧠 TensorFlow, Keras
+- 🗄️ SQL, Docker
+- 🐧 Linux (Bash, SSH)
+- 🌐 HTML5, CSS3
+- 🐙 Git
+
+
+## 🛠️ Projects:
+- 🤖 [OneTime_Bot](https://github.com/QUA77I20/OneTime_Bot) — Telegram bot for order automation.
+- 🔗 [AI2](https://github.com/QUA77I20/AI2) — Simple Perceptron Model.
+- 🚧 Coming Soon: Blockchain API with Wallet & Miner.
+
+## 🎯 Goals for 2025:
+- Build and deploy a full-scale AI model for production use.
+- Work on open-source projects related to Blockchain and AI.
+- Enhance my skills in machine learning frameworks like PyTorch.
+
+
+## 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=QUA77I20&show_icons=true&theme=radical)
+
