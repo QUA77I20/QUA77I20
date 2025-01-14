@@ -6,7 +6,7 @@
 - 🤝 Open to collaborations on AI, Data Science, or Blockchain projects.
 
 ## 📬 How to Reach Me:
-- 📧 Email: c093900w@gmail.com
+- 📧 Email: marc.sabeco@gmail.com
 
 ## ⚡ Fun Fact:
 - 🎯 Created a fully functional blockchain with API wallets and a miner from scratch in just 12 hours... and then lost it 😅.
