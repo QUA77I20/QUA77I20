@@ -24,7 +24,7 @@
 ## 🛠️ Projects:
 - 🤖 [TGBot-for-Orders](https://github.com/QUA77I20/TGBot-for-Orders) — Telegram bot for order automation.
 - 🔗 [AI2](https://github.com/QUA77I20/AI2) — Simple Perceptron Model.
-- 🚧 Coming Soon: Blockchain with API, Wallet & Miner.
+- 🧱 [BLockForge](https://github.com/QUA77I20/BlockForge) — Blockchain with API, Wallet & Miner.
 
 ## 🎯 Goals for 2025:
 - Build and deploy a full-scale AI model for production use.
